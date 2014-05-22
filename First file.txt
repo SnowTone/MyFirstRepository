@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 Adding a first file
 Adding second line
-ADding a third line
-=======
-Adding a first file
->>>>>>> 4e28cdb43c74dcb0651d1e6aa7c85531c7cd8ff9
+
+Adding a line in test
